@@ -1,0 +1,60 @@
+h1 {
+  font-family: Helvetica;
+  font-size:100px;
+  font-weight: bold;
+  color: Khaki;
+}
+
+h1 {
+   text-align:center;
+}
+
+#brushes { font-family: Helvetica;
+    font-size:32px;
+    font-weigth: bold;
+    color:white;
+    background-color: mediumspringgreen;
+}
+#brush{
+  font-family: Helvetica;
+  font-weight:bold;
+  color:blue;
+}
+
+#frames{ font-family: Helvetica;
+    font-size:32px;
+    font-weigth: bold;
+    color:white;
+    background-color: lightcoral;
+}
+
+#frame{
+  font-family: Helvetica;
+  font-weight:bold;
+  color:blue;
+}
+
+#paint{ font-family: Helvetica;
+    font-size:32px;
+    font-weigth: bold;
+    color:white;
+    background-color:skyblue;
+}
+
+#paints{
+  font-family: Helvetica;
+  font-weight:bold;
+  color:blue;
+}
+
+body{
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/selga.png')
+}
+
+*{
+  font-family: Helvetica, sans-serif;
+}
+
+h1{
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg')
+}
